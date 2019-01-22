@@ -1,0 +1,4 @@
+development: 
+  url: "redis://redis:6379/0"
+production:
+  url: "redis://redis:6379/0"
