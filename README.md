@@ -3,9 +3,9 @@
 
 Simple web service to generate and save hashes. Stack:
 
-Rails w/ Puma app server running in clustered mode
-Nginx as a proxy terminating SSL
-Redis to store messages/hashes
+- Rails w/ Puma app server running in clustered mode
+- Nginx as a proxy terminating SSL
+- Redis to store messages/hashes
 
 ## Usage
 
